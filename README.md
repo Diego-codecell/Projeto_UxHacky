@@ -13,6 +13,8 @@ como consequência consumidores contemplados com os recursos da plataforma digit
 Todos esses aspectos contribuem para que o site dos clientes seja um dos primeiros
 como resultado de pesquisa do Google.
 
+![Imagem do site UxHacky](images/imagemDoSiteUxHacky.png)
+
 ## 💻 Tecnologias Utilizadas
 
 - HTML
