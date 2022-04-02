@@ -1,4 +1,4 @@
-# 🚀 Sobre o Projeto
+# Sobre o Projeto
 
 Não são muitas agências que prestam serviço digital sobre User Experience e
 ranqueamento. O Projeto UX Hacky é um site que tem como objetivo alcançar aqueles
@@ -15,13 +15,13 @@ como resultado de pesquisa do Google.
 
 ![Imagem do site UxHacky](images/imagemDoSiteUxHacky.png)
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-## 🤝 A equipe
+## Autores do projeto
 
 -  [Lucas Nascimento](https://github.com/opslucas)
 -  [Victor Daniel](https://github.com/Victor07july)
